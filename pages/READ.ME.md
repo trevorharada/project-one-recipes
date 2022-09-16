@@ -3,9 +3,10 @@ Description of project:
 This projects objective is to create a HTML website using the knowledge 
 I have learned thus far from, The Odin Project. The website utilizes a 
 variety of HTML elements, specifically, showcasing the use and knowledge 
-of, <a>, <img>, <ul>, <ol>, <h>, and <p>. Keep in mind that I have only 
-learned HTML and not CSS or Javascript at this point in time. This is also 
-good practice and first time making commit messages to Git.
+of, anchors, images, unordered lists , ordered lists, headings, and paragraphs. 
+Keep in mind that I have only learned HTML and not CSS or Javascript at 
+this point in time. This was also good practice and first time making 
+commit messages to Git.
 
 Reflection:
 
