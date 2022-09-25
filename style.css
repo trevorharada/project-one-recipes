@@ -1,0 +1,32 @@
+#title {
+    color: green;
+    background-color: black;
+}
+
+#title,
+.header {
+    text-align: center;
+}
+
+
+.header.ice {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}   
+
+.header {
+    color: blue;
+    background-color: brown;
+}
+
+img {
+    height: auto;
+}
+
+.chef {
+    width: 500px;
+}
+
+.ice-cream {
+    width: 250px;
+}
